@@ -31,15 +31,13 @@
     <string name="answer">Work give us meaning, so I\'d to work in a optimistic environment. My ultimate goal is to give back to the society using my tech skills.</string>
     <string name="answer1">I\'m accountable at my work. My priority is to make sure that whatever I develop or contribute into; should be of the highest quality.
        </string>
-    <string name="experience_title">Senior Software Engineer</string>
-    <string name="experience_description">"\u2713 Picasso,Glide (Libraries)\n""\u2713 MVP \n""\u2713 MVVM \n""\u2713 Room Database\n""\u2713 Firebase"</string>
-    <string name="why_i_did_choose_work_1">"\u2713 Because I need to cache the image\n""\u2713 Design pattern - unit testing easier and lesser\n"\u0020 \u0020 "code size than MVP\n""\u2713 Design pattern - Easier for unit testing\n""\u2713 Save data in a local database using Room\n""\u2713 Firebase provides a realtime database and \n"\u0020 \u0020 "backend as a service"
-
-    </string>
+    <string name="experience_title">Python Course</string>
+    <string name="experience_description">"\u2713 MVT \n""\u2713 django framework \n""\u2713 python language \n""\u2713 api \n""\u2713 website development"</string>
+    <string name="why_i_did_choose_work_1">"\u2713 Because I want to learn new trending language\n""\u2713 Pyhton is more secure and easy to code\n""\u2713 As python can be used in almost every field\n"</string>
 
     <string name="year11">(year)</string>
-    <string name="experience_title1">Visiting Faculty</string>
-    <string name="experience_description1">\u2713 Course: Software for Mobile Devices \n\u2713 Course: Advanced Programming\n\u2713 Total Students: 216</string>
+    <string name="experience_title1">Internship</string>
+    <string name="experience_description1">\u2713 Software Testing automation \n\u2713 MVC model view controller websites development\n\u2713 Selinium web testing tool</string>
     <string name="experience_year1">(year)</string>
     <string name="experience_title2">Software Engineer</string>
     <string name="experience_description2">\u2713 Java for Blackberry SDK 7.1 \n\u2713 Java for Android\n\u2713 Sencha Touch 2 (HTML5)\n\u2713 SMTP Mail Configurations\n\u2713 CronJobs and Task Schedulers for Auto Execution of the Scripts at a given time.</string>
@@ -78,7 +76,7 @@
     <string name="school_year">(2015)</string>
     <string name="college_year">(2015 – 2017)</string>
     <string name="university_year">(2017 – 2021)</string>
-    <string name="Cgpa"></string>
+    <string name="Cgpa">3.2</string>
     <string name="certification_courses_title">Publications</string>
     <string name="institute_title">A parametric effort estimation model for mobile apps</string>
     <string name="institute_year">(2016)</string>
@@ -96,14 +94,14 @@
     <string name="skill_title_5">Quality Assurance</string>
     <string name="projects_title">Projects</string>
     <string name="why_i_did_choose_above_title_0">Why above:</string>
-    <string name="why_i_did_choose_above_title_1">Why did I choose to teach:</string>
-    <string name="why_i_did_choose_work_2">"\u2713" Teaching does not finish when we give our students the information, it can be acquired from many sources, but the ability to think, reason and criticize can only be incorporated if we foster and encourage them through thick and thin.</string>
+    <string name="why_i_did_choose_above_title_1">Why above:</string>
+    <string name="why_i_did_choose_work_2">"\u2713 Because i want to get familiar with the trends in the market and want to get experience. I utilized this oppurtunity very well .I worked with whole software development team.I want to contribute in society"</string>
     <string name="why_i_did_choose_work_3">"\u2713" Client based company, so considering the requirements from clients and keeping in point latest technology at that time I used above technology stack. </string>
-    <string name="company_name1">YumyApps Pvt Ltd</string>
-    <string name="experience_time1">November 2016 - October (3 years)</string>
+    <string name="company_name1">Arfa kareem Tower(PNY trainings)</string>
+    <string name="experience_time1">(2.5 months)</string>
     <string name="worked_on_title">Worked On:</string>
-    <string name="company_name2">National University College of Computer and Emerging Sciences</string>
-    <string name="experience_time2">August 2018 - December 2019 (~1.5 years)</string>
+    <string name="company_name2">Techlogix private Limited(Software House)</string>
+    <string name="experience_time2">july 2019 - september (2 months)</string>
     <string name="worked_on2">Worked On:</string>
     <string name="company_name3">MobilezApp inc</string>
     <string name="experience_time3">August 2012 - January 2014 (1.6 years)</string>

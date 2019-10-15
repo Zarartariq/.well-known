@@ -86,7 +86,6 @@
 
                 app:tabGravity="fill"
                 app:tabIndicatorColor="@color/blue1Color"
-                app:tabInlineLabel="true"
                 app:tabMode="fixed"
                 app:tabSelectedTextColor="@color/blackColor"
                 app:tabTextAppearance="@style/TabLayoutTextSize"

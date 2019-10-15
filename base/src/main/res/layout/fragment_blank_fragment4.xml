@@ -10,6 +10,6 @@
         android:layout_width="match_parent"
         android:id="@+id/recyclerViewDemo4"
         android:layout_height="match_parent"
-        android:background="#ECD6D6"/>
+        android:background="#ffff"/>
 
 </FrameLayout>
